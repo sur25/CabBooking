@@ -1,0 +1,5 @@
+For registering City : http://localhost:5467/registerCity
+
+For registering cab into system : http://localhost:5467/registerCab
+
+For booking cab :  http://localhost:5467/bookCab

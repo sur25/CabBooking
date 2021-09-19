@@ -1,3 +1,9 @@
+Download and unzip files. Run the code.
+
+Build tool : Maven
+Info : Spring Boot project
+
+
 For registering City : http://localhost:5467/registerCity
 
 For registering cab into system : http://localhost:5467/registerCab
